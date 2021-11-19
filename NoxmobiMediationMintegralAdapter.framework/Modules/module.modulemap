@@ -1,0 +1,6 @@
+framework module NoxmobiMediationMintegralAdapter {
+  umbrella header "NoxmobiMediationMintegralAdapter.h"
+
+  export *
+  module * { export * }
+}
