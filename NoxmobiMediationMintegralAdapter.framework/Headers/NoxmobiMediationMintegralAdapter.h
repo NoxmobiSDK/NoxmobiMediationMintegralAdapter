@@ -7,6 +7,6 @@
 
 #import <Foundation/Foundation.h>
 
-#define NoxmobiMediationMintegralAdapterVersion @"7.2.8.0"
+#define NoxmobiMediationMintegralAdapterVersion @"7.2.8.1"
 
 

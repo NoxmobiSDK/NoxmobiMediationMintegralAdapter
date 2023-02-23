@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NoxmobiMediationMintegralAdapter"
-  spec.version      = "7.2.8.0" # Mark
+  spec.version      = "7.2.8.1" # Mark
   spec.summary      = "Noxmobi ad mediation adapter for Mintegral."
   spec.homepage     = "https://github.com/NoxmobiSDK/NoxmobiMediationMintegralAdapter"
   spec.license      = "MIT"
